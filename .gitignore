@@ -1,0 +1,12 @@
+node_modules/
+logs/
+/events/
+records/
+eew.csv
+csv/
+data/
+records.trply
+intensity/
+/venv
+.DS_Store
+.env
